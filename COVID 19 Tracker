@@ -1,0 +1,21 @@
+# COVID-19 Global Data Tracker
+
+## Description
+This project tracks global COVID-19 data in real-time using data from public APIs. It visualizes various COVID-19 statistics such as confirmed cases, deaths, and recoveries worldwide and per country.
+
+## Objectives
+- To track and visualize global COVID-19 data.
+- To apply Python skills in data handling and visualization.
+- To practice working with APIs and processing JSON data.
+
+## Tools and Libraries Used
+- **Python 3.x**
+- **pandas**: For data manipulation and analysis.
+- **matplotlib**: For data visualization (graphs and charts).
+- **requests**: For making API calls.
+- **json**: For handling JSON data.
+- **folium** (optional): For mapping COVID-19 cases by country.
+
+
+
+
